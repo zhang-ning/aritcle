@@ -13,8 +13,10 @@
 
 * 过去：
 	* 整个项目就是 一个 大 module
+	* ![](./assets/old.png)
 * 现在：
 	* 一个逻辑模块 或 一个通用组件 作为 一个 module
+	* ![](./assets/new.png)
 * 对于小项目来说：
 	* 可以只有一个文件，如果你实在够懒甚至可以只写一个directive, 跟用 jQuery 无差.
 	
