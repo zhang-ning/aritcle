@@ -51,22 +51,26 @@
 
 5. Angular 启动方式
  * 自动 
-	```html
-	<html ng-app> 
-	```
-  * 手动 
-	   ```
-		angular.module(‘A',[]);
-		document.ready
-			angular.bootstrap(document,[‘A']);
-		```
-    
+ 
+  ```html
+
+   <html ng-app>
+	
+  ```
+  
+  * 手动
+ 
+   ```
+    angular.module(‘A',[]);
+    document.ready
+	angular.bootstrap(document,[‘A']);
+   ```
 
 6. 关键概念理解
-	 * service 是个单例
+	* service 是个单例
 		 $http, $state(大量内建 service)
-     * directive
-		  ng-click, ng-view, scope, ng-classs (大量内建 directive)
+	* directive
+		 ng-click, ng-view, scope, ng-classs (大量内建 directive)
 
 	> FB的react.js 攻击angular的一个主要入口，就是scope.apply 时，为实现界面最小化刷新做了脏数据的检查工作，被认为是自作聪明。后续的版本中提供了控制接口，可以人为干预。
 
@@ -87,10 +91,12 @@
 
 9. 其实很多人在黑angular, Google 自己也没有一个项目用Angular
 
-	比如这位 
-	“daniel.steigerwald.cz and I’m Google Developer Expert”
-	文章: https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e
-	或 https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903
+	比如这位 “[daniel.steigerwald.cz]() and I’m Google Developer [Expert]()”
+	
+	文章:
+		https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e
+	或 
+		https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903
 	
  		
  
