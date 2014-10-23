@@ -1,7 +1,6 @@
 
 # 从实现谈角度，如何使用 Angular 
 
-
  > 我对 Angular API 也没每个都记的很牢靠，也要查文档，本文只给出 使用 angular 的思路和 它一些关键feature做的事情，以便在任何情况，你都能handle 
 
 
