@@ -12,11 +12,11 @@
 	对于大项目来说：
 
 * 过去：
-    整个项目就是 一个 大 module
+	* 整个项目就是 一个 大 module
 * 现在：
-   一个逻辑模块 或 一个通用组件 作为 一个 module
+	* 一个逻辑模块 或 一个通用组件 作为 一个 module
 * 对于小项目来说：
-		* 可以只有一个文件，如果你实在够懒甚至可以只写一个directive, 跟用 jQuery 无差.
+	* 可以只有一个文件，如果你实在够懒甚至可以只写一个directive, 跟用 jQuery 无差.
 	
 	```
 	angular.module(‘myApp’,[‘A’,’B’,’C’],function(){})
