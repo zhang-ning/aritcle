@@ -91,15 +91,15 @@
 
 9. 其实很多人在黑angular, Google 自己也没有一个项目用Angular
 
-	比如这位 “[daniel.steigerwald.cz]() and I’m Google Developer [Expert]()”
+	比如这位 “[daniel.steigerwald.cz](http://daniel.steigerwald.cz/) and I’m Google Developer [Expert](https://developers.google.com/experts/)”
 	
 	文章:
 	
-		https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e
+	[https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e](https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e)
 		
 	或 
 		
-		https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903
+	[https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903](https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903)
 		
 	
  		
