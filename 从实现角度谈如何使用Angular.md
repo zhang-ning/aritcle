@@ -6,23 +6,24 @@
 1. 概览
  a. 如果只从功能角度来看， Angular 是个模版引擎
  b. 从框架角度来看，   玩的就是代码组织结构，高内聚，低耦合（玩代码组织结构，其实跟人事管理也没啥区别）
+ ![](./assets/twoway.png)
 
 2. Angular 应用的代码组织结构
-对于大项目来说：
-* 过去：
-	* 整个项目就是 一个 大 module
-	![](./assets/old.png)
-* 现在：
-	* 一个逻辑模块 或 一个通用组件 作为 一个 module
-	![](./assets/new.png)
-* 对于小项目来说：
-	* 可以只有一个文件，如果你实在够懒甚至可以只写一个directive, 跟用 jQuery 无差.
+	对于大项目来说：
+	* 过去：
+		* 整个项目就是 一个 大 module
+		![](./assets/old.png)
+	* 现在：
+		* 一个逻辑模块 或 一个通用组件 作为 一个 module
+		![](./assets/new.png)
+	* 对于小项目来说：
+		* 可以只有一个文件，如果你实在够懒甚至可以只写一个directive, 跟用 jQuery 无差.
 	
-	```
-	angular.module(‘myApp’,[‘A’,’B’,’C’],function(){})
-		.controller(‘id’,fn) 
- 		.directve().filter()
- 	```
+		```
+		angular.module(‘myApp’,[‘A’,’B’,’C’],function(){})
+			.controller(‘id’,fn) 
+	 		.directve().filter()
+	 	```
 
 3. scope 是核心
 
