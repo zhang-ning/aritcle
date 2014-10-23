@@ -94,9 +94,13 @@
 	比如这位 “[daniel.steigerwald.cz]() and I’m Google Developer [Expert]()”
 	
 	文章:
+	
 		https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e
+		
 	或 
+		
 		https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903
+		
 	
  		
  
