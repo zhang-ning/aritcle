@@ -87,7 +87,7 @@
 
 	* 基础概念扫清: sellenim test ，持续集成.
 	* javascript 版的sellenim : webdriverjs (如何使用?请看博客,写的比较  粗糙http://besideriver.com/#/post/blog/2013/12/07/sellenim-webdriverjs.html)
-* 与单元测试框架集成  ， 视频中使用的是TJ的 mocha(界面较友好)
+	* 与单元测试框架集成  ， 视频中使用的是TJ的 mocha(界面较友好)
 
 9. 其实很多人在黑angular, Google 自己也没有一个项目用Angular
 
